@@ -1,0 +1,22 @@
+
+html, body {
+    margin: 100;
+    padding: 100;
+    }
+   body {
+    background-color: rgb(94, 81, 81); 
+    font-family: roboto,roboto regular; 
+    font-size: 100%;
+    }
+   h1 {
+    font-size: 25px; 
+    color: #FFFF; 
+    text-align: center;
+    }
+    form {text-align: center;
+    }
+    photo-equipe
+    {vertical-align: center;
+      }
+
+  
